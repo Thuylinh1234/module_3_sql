@@ -1,0 +1,10 @@
+-- a. Học sinh chưa từng thi môn nào
+-- b. Giáo viên chưa từng phụ trách môn học nào
+-- c. Giáo viên chưa từng chủ nhiệm lớp nào
+-- d. Môn học chưa từng được tổ chức thi lần nào
+-- e. Đếm xem tương ứng với mỗi địa chỉ (của học sinh), số lượng học sinh đang ở mỗi địa chỉ là bao nhiêu em. 
+-- Chỉ hiển thị kế tqua cho những địa chỉ có ít nhất 5 học sinh đang ở đó
+-- f. Liệt kê điểm thi trung bình của từng môn học (dựa vào điểm thi cuối kỳ mà các học sinh đã từng thi).
+--  Chỉ liệt kê những môn có điểm trung bình từ 5 đến 10
+-- g. Tính điểm thi trung bình của từng học sinh trong trường. Chỉ tính điểm trung bình cho những học sinh đã từng thi 
+-- cuối kỳ cho ít nhất 1 môn. Dựa vào cột điểm thi cuối kỳ để tính. Chỉ hiển thị những học sinh có điểm trung bình trên 8
